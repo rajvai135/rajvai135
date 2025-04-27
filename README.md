@@ -1,3 +1,4 @@
+![logo](https://github.com/rajvai135/rajvai135/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate Front-end web developer from Bangladesh</h3>
 
